@@ -9,3 +9,6 @@ Project Setup
 (6) install npx gltfjsx public/models/WawaOffice.jsx
 (7) a file wawaoffice.jsx is created copy the content and paste it into the office.jsx file in the component, set it up as per the given configuration of storage of model
 (8)add office.jsx to experience
+(9)created ref and tl as reference elements
+(10) useframe to adjust the scroll
+(11) uselayouteffect  is used to perfrom the gsap scroll animation

@@ -10,7 +10,6 @@ const Experience = () => {
     <ScrollControls pages={3} damping={0.25}>
       <Office />
     </ScrollControls>
-       
     </>
   )
 }
