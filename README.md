@@ -12,3 +12,7 @@ Project Setup
 (9)created ref and tl as reference elements
 (10) useframe to adjust the scroll
 (11) uselayouteffect  is used to perfrom the gsap scroll animation
+(12) usescroll and useframe to adjust the scroll
+(13) camera position is set in canvas in app.jsx
+(14) positions and rotations of each model element are set along with the models positions and rotations
+(15) rotation of each model element and positions of each model element is changes using a timeline in gsap
